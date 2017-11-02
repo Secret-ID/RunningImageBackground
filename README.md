@@ -1,1 +1,0 @@
-# running-image-background---android
